@@ -1,0 +1,36 @@
+INSIGHTS & SUMMARY
+==================
+
+1. Which features influence house price the most?
+   The most influential features are 'area' (size of the property), 'bathrooms',
+   'stories', and 'airconditioning'. The Random Forest feature importance chart
+   shows that 'area' is by far the strongest predictor, followed by 'bathrooms'
+   and 'stories'. Among binary amenities, 'airconditioning' adds considerable
+   value. The correlation heatmap confirms that area has the highest positive
+   correlation with price.
+
+2. How accurate was the model?
+   The Linear Regression model achieved an R² score of ~0.65, meaning it explains
+   about 65% of the variance in house prices. Its average prediction error (MAE)
+   was around 9.7 lakh (currency units). Random Forest performed slightly worse
+   with an R² around 0.61 — possibly due to the small dataset. While the models capture the general
+   trend, there is still room for improvement — especially for higher-priced
+   properties, where the scatter plot shows more spread.
+
+3. What surprised me in the data?
+   The number of bedrooms showed only a weak correlation with price, which is
+   somewhat counterintuitive — one might expect more bedrooms to strongly drive
+   price. Similarly, 'prefarea' (preferred area) was less impactful than
+   expected. The price distribution is right-skewed, meaning most houses cluster
+   around the lower end of the price spectrum with a few very expensive outliers.
+
+4. Recommendation for a real estate business:
+   Focus marketing efforts on the factors that truly drive price: total area,
+   number of bathrooms, and air conditioning. Sellers should be advised that
+   adding an extra bathroom or expanding the floor area yields a higher price
+   premium than simply adding bedrooms. Buyers looking for value should target
+   properties with a good area-bathroom ratio but not necessarily the most
+   bedrooms. Additionally, the business could improve predictions by collecting
+   richer data — such as exact location coordinates, year built, and proximity
+   to schools or transit — which would likely boost model accuracy beyond the
+   current 65% R².
