@@ -1,0 +1,43 @@
+Employee Attrition Analysis – Executive Summary
+
+Project Overview
+
+Employee attrition is a major challenge for organizations because replacing experienced employees requires significant time, effort, and cost. The objective of this project was to analyze employee data and identify patterns that indicate which employees are more likely to leave the company. By understanding these factors, HR teams can take proactive steps to improve employee retention and reduce turnover.
+
+Key Findings
+
+The analysis revealed several factors that strongly influence employee attrition. Employees who frequently work overtime showed a significantly higher likelihood of leaving the organization compared to those who do not work overtime. Lower job satisfaction and poor work-life balance were also associated with increased attrition rates. Additionally, employees in certain job roles and departments experienced higher turnover than others.
+
+Salary was found to be an important factor, but it was not the only reason employees left. Employees with lower satisfaction levels, higher workloads, and limited work-life balance often showed a greater tendency to leave even when compensation was competitive. This indicates that employee retention depends on a combination of workplace conditions rather than salary alone.
+
+High-Risk Employee Groups
+
+The analysis identified several groups that may require additional HR attention:
+
+* Employees who regularly work overtime.
+* Employees reporting low job satisfaction.
+* Employees with poor work-life balance ratings.
+* Employees in roles and departments with historically higher attrition rates.
+* Employees in the early stages of their tenure who may not yet feel fully engaged with the organization.
+
+Recommendations
+
+Based on the findings, the following actions are recommended:
+
+1. Monitor employee workload and reduce excessive overtime where possible.
+2. Conduct regular employee satisfaction surveys and address common concerns proactively.
+3. Implement targeted retention programs for departments and roles with high turnover.
+4. Strengthen onboarding and engagement initiatives for newer employees.
+5. Promote work-life balance through flexible policies and employee wellness programs.
+
+Business Impact
+
+Using employee attrition insights can help organizations identify at-risk employees before they decide to leave. Early intervention can reduce recruitment and training costs, improve workforce stability, preserve organizational knowledge, and enhance overall employee satisfaction.
+
+Limitations
+
+This analysis is based on historical employee data and identifies patterns rather than definite outcomes. Employee decisions are influenced by many personal and external factors that may not be captured in the dataset. Therefore, predictions should be used as a decision-support tool to guide HR strategies rather than as the sole basis for employment decisions.
+
+Conclusion
+
+The project demonstrates how data-driven analysis can support employee retention efforts. By focusing on factors such as overtime, job satisfaction, work-life balance, and employee engagement, organizations can make informed decisions that improve retention and create a healthier workplace environment.
